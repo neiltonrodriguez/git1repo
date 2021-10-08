@@ -1,2 +1,3 @@
 teste alteração
-de arquivi, direto no gitHUB para depois baixar a alteração via git Pull
+de arquivi, direto no gitHUB para depois baixar a alteração via git Pull e usando git log para ver todo histórico de alterações no meu projeto
+gitHUB
